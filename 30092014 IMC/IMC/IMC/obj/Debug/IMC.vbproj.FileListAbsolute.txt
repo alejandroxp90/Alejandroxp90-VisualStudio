@@ -1,0 +1,33 @@
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.exe.config
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.exe
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.pdb
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.xml
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Form1.resources
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Form2.resources
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Resources.resources
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.vbproj.GenerateResource.Cache
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.exe
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.xml
+E:\Escuela\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.pdb
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.exe.config
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.exe
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.xml
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.pdb
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.exe
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.pdb
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.xml
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Form1.resources
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Form2.resources
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Resources.resources
+D:\Octavo Cuatrimestre\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.xml
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.pdb
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\bin\Debug\IMC.xml
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Form2.resources
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.Resources.resources
+C:\Users\Alejandro\Downloads\Eventos\30092014 IMC\IMC\IMC\obj\Debug\IMC.vbproj.GenerateResource.Cache
